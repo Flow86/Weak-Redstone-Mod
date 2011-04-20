@@ -8,6 +8,6 @@ public class mod_WeakRedstone extends BaseMod
 	
 	public String Version()
 	{
-		return "1.5";
+		return "1.5_01";
 	}
 }
