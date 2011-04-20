@@ -2,12 +2,12 @@ public class mod_WeakRedstone extends BaseMod
 {
 	public mod_WeakRedstone()
 	{
-		ra.aN.c(1.0F);
-		ra.aO.c(1.0F);
+		to.aN.c(1.0F);
+		to.aO.c(1.0F);
 	}
 	
 	public String Version()
 	{
-		return "1.4_01";
+		return "1.5";
 	}
 }
